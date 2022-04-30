@@ -4,8 +4,15 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="helloWorld" class="pl.coderslab.beans.HelloWorld">
-           <constructor-arg name="message" value="Witaj Spring"/>
+        <constructor-arg name="message" value="Witaj Spring"/>
+        <property name="message" value="Witaj Spring - by setter"/>
     </bean>
 
+    <bean id="emailService" class="pl.coderslab.beans.EmailService"/>
+
+    <bean id="messageSender" class="pl.coderslab.beans.MessageSender">
+        <constructor-arg name="messageService" ref="emailService"/>
+        <property name="message" value="Message from xml"/>
+    </bean>
 
 </beans>
