@@ -6,12 +6,12 @@
     <title>Title</title>
 
     <style>
-
         body{
             color: ${color};
             background-color: ${backgroundColor};
         }
     </style>
+
 </head>
 <body>
 
