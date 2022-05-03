@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5e85cbc-5dad-4eab-b0f7-ca8fb2ef0526" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/src/main/java/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/src/main/java/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/src/main/java/pl/coderslab/beans/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-auto/src/main/java/pl/coderslab/beans/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/beans/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/beans/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/beans/ScopePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/beans/ScopeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-java/src/main/java/pl/coderslab/beans/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/FreeTimeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/MultiplyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/RandomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/SessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/Task4Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/session/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/session/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/session/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/java/pl/coderslab/session/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/webapp/WEB-INF/views/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jee-spring-mvc/src/main/webapp/WEB-INF/views/number.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul5/src/main/java/pl/coderslab/beans/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul5/src/main/java/pl/coderslab/beans/MessageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul5/src/main/java/pl/coderslab/beans/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul5/src/main/java/pl/coderslab/app/SpringDiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/modul5/src/main/java/pl/coderslab/app/SpringDiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul5/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modul5/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul5/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modul5/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul5/target/classes/pl/coderslab/app/SpringDiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/modul5/target/classes/pl/coderslab/app/SpringDiApplication.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="284ctQymDLdqfysa4UzU1siOFsE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5e85cbc-5dad-4eab-b0f7-ca8fb2ef0526" name="Changes" comment="" />
+      <created>1650479513837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650479513837</updated>
+      <workItem from="1650479516908" duration="27000" />
+      <workItem from="1650479624785" duration="1687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
