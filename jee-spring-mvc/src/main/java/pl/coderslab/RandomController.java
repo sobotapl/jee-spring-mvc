@@ -19,13 +19,6 @@ public class RandomController {
         return "Podana wartosc max: " + max + "min: " +min+ ". Wylosowano liczbe: " +randomNumber;
     }
 
-//    @GetMapping(value ="/random/{max}", produces = "text/plain;charset=UTF-8")
-//    @ResponseBody
-//    public String showRandom(@PathVariable int max){
-//        int randomNumber = rd.nextInt(max)+1;
-//        return "Podana wartosc max: " + max + ". Wylosowano liczbe: " +randomNumber;
-//    }
-
 
 
     @GetMapping(value = "/show-random", produces = "text/plain;charset=UTF-8")
