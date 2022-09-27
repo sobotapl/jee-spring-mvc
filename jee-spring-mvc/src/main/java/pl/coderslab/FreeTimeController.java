@@ -20,8 +20,7 @@ public class FreeTimeController {
     @ResponseBody
     public String checkTime() {
         LocalDateTime localDateTime = LocalDateTime.now();
-        if (DayOfWeek.SATURDAY.equals(localDateTime.getDayOfWeek())
-                || DayOfWeek.SUNDAY.equals(localDateTime.getDayOfWeek())) {
+        if (DayOfWeek.SATURDAY.equals(localDateTime.getDayOfWeek()) || DayOfWeek.SUNDAY.equals(localDateTime.getDayOfWeek())) {
             return "Wolne";
         } else if (localDateTime.toLocalTime().isAfter(START_WORK) && localDateTime.toLocalTime().isBefore(END_WORK)) {
             return "Pracuje, nie dzwon";
